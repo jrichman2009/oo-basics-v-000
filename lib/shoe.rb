@@ -25,3 +25,6 @@ class Shoe
   end
 
 end
+
+Nike = shoe.new("Nike")
+Nike.cobble
