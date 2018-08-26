@@ -28,3 +28,4 @@ end
 
 Nike = Shoe.new("Nike")
 Nike.cobble
+Nike.condition
